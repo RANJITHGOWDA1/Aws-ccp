@@ -1,0 +1,101 @@
+What is cloud computing?
+*Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. 
+Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services
+
+Deployment models for cloud computing:
+
+1.cloud-based deployment:
+In a cloud-based deployment model, you can migrate existing applications to the cloud,
+or you can design and build new applications in the cloud.
+*Run all parts of the application in the cloud.
+*Migrate existing applications to the cloud.
+*Design and build new applications in the cloud.
+
+2.On-premises deployment: is also known as a private cloud deployment. 
+In this model, resources are deployed on premises by using virtualization and resource management tools.
+*Deploy resources by using virtualization and resource management tools.
+*Increase resource utilization by using application management and virtualization technologies.
+
+3.hybrid deployment:
+*In a hybrid deployment, cloud-based resources are connected to on-premises infrastructure. 
+You might want to use this approach in a number of situations.
+*Connect cloud-based resources to on-premises infrastructure.
+*Integrate cloud-based resources with legacy IT applications.
+
+Benefits of cloud computing:
+* Stop spending money to run and maintain data centers
+* Increase speed and agility
+* Go global in minutes
+* Benefit from massive economies of scale
+
+Types of cloud computing:
+
+1.Infrastructure as a Service (IaaS):
+*Infrastructure as a Service, sometimes abbreviated as IaaS, contains the basic building blocks for cloud IT and typically provide access to networking features, 
+computers (virtual or on dedicated hardware), and data storage space.
+
+2.Platform as a Service (PaaS):
+*Platforms as a service remove the need for organizations to manage the underlying infrastructure (usually hardware and operating systems) and allow you to focus on the deployment 
+and management of your applications.
+
+3.Software as a Service (SaaS):
+*Software as a Service provides you with a completed product that is run and managed by the service provider. 
+In most cases, people referring to Software as a Service are referring to end-user applications.
+
+Cloud computing with AWS:Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform, offering over 200 fully featured services from data centers globally. 
+Millions of customers—including the fastest-growing startups, largest enterprises, and leading government agencies—are using AWS to lower costs, become more agile, and innovate faster.
+
+Amazon Elastic Compute Cloud (Amazon EC2):
+*Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) Cloud. 
+Using Amazon EC2 eliminates your need to invest in hardware up front,so you can develop and deploy applications faster.
+*By comparison, with an Amazon EC2 instance you can use a virtual server to run applications in the AWS Cloud.
+
+Amazon EC2 instance types:
+1.General purpose instances:
+* provides a balance of compute, memory, and networking resources. You can use them for a variety of workloads, such as:
+* application servers
+* gaming servers
+* backend servers for enterprise applications
+* small and medium databases
+
+2.Compute optimized instances:
+*Compute optimized instances are ideal for compute-bound applications that benefit from high-performance processors. 
+Like general purpose instances, you can use compute optimized instances for workloads such as web, application, and gaming servers.
+
+3.Memory optimized instances: are designed to deliver fast performance for workloads that process large datasets in memory. 
+In computing, memory is a temporary storage area
+
+4.Accelerated computing instances: use hardware accelerators, or coprocessors, 
+to perform some functions more efficiently than is possible in software running on CPUs.
+
+5.Storage optimized instances: are designed for workloads that require high, sequential read and write access to large datasets on local storage.
+
+Amazon EC2 pricing:
+* With Amazon EC2, you pay only for the compute time that you use. Amazon EC2 offers a variety of pricing options for different use cases
+
+1.On-Demand: are ideal for short-term
+2.Amazon EC2 Savings Plans: 1-year or 3-year term. This term commitment results in savings of up to 66% over On-Demand costs.
+3.Reserved Instances:
+4.Spot Instances: Spot Instances use unused Amazon EC2 computing capacity and offer you cost savings at up to 90% off of On-Demand prices.
+5.Dedicated Hosts: are physical servers with Amazon EC2 instance capacity that is fully dedicated to your use
+
+Scaling Amazon EC2:
+
+*Scalability: Scalability involves beginning with only the resources you need and designing your architecture to automatically respond to changing demand by 
+scaling out or in.As a result, you pay for only the resources you use. 
+
+Amazon EC2 Auto Scaling:
+* Amazon EC2 Auto Scaling enables you to automatically add or remove Amazon EC2 instances in response to changing application demand. 
+By automatically scaling your instances in and out as needed
+
+Elastic Load Balancing:
+* Elastic Load Balancing is the AWS service that automatically distributes incoming application traffic across multiple resources, such as Amazon EC2 instances. 
+
+Amazon Simple Notification Service (Amazon SNS):
+* Amazon Simple Notification Service (Amazon SNS) is a publish/subscribe service. Using Amazon SNS topics, a publisher publishes messages to subscribers.
+
+Amazon Simple Queue Service (Amazon SQS):
+* Amazon Simple Queue Service (Amazon SQS) is a message queuing service. 
+Using Amazon SQS, you can send, store, and receive messages between software components, without losing messages or requiring other services to be available.
+* Amazon SQS, an application sends messages into a queue. A user or service retrieves a message from the queue, processes it, and then deletes it from the queue.
+
