@@ -1,0 +1,140 @@
+1.What is cloud computing?
+A)Backing up files that are stored on desktop and mobile devices to prevent data loss
+B)Deploying applications connected to on-premises infrastructure
+C)Running code without needing to manage or provision servers
+D)On-demand delivery of IT resources and applications through the internet with pay-as-you-go pricing
+
+1ans = D
+
+2.What is another name for on-premises deployment?
+A)Private cloud deployment
+B)Cloud-based application
+C)Hybrid deployment
+D)AWS Cloud
+
+2ans=A
+
+3.What are the different types of instances?
+A)General purpose
+B)Computer Optimized
+C) Storage Optimized
+D)All of the above
+
+3ans=D
+
+4.What are the advantages of auto-scaling?
+A)Better availability
+B)Offers fault tolerance
+C)Better cost management
+D)All of the above
+
+4ans=D
+
+5. ____ is a function that allows you to provision and launch new instances whenever there is a demand.
+A. Auto-scaling
+B. Geo-targeting
+C. Cloud Formation
+D. None of the above
+
+5ans=A
+
+6. In which year, Amazon Web Services founded?
+A. 2005
+B. 2006
+C. 2007
+D. 2008
+
+6ans=B
+
+7.Which of the following is a web service that manages the memory cache in the cloud?
+A. Amazon Elastic Cache
+B. Amazon RDS
+C. RDMS on EC2
+D. Auto Scaling
+
+7ans=A
+
+8.Which of the following allows you to create instances of the MySQL database to support your Web sites?
+A. Amazon Elastic Compute Cloud
+B. Amazon Simple Queue Service
+C. Amazon Relational Database Service
+D. Amazon Simple Storage System
+
+8ans=C
+
+9.Which of the following services are free in AWS?
+A. AWS CodePipeline
+B. AWS CodeCommit
+C. AWS CodeBuild
+D. All of the above
+
+9ans=D
+
+10.Which AWS service is the best choice for publishing messages to subscribers?
+A)Amazon Simple Queue Service (Amazon SQS)
+B)Amazon EC2 Auto Scaling
+C)Amazon Simple Notification Service (Amazon SNS)
+D)Elastic Load Balancing
+
+10ans=C
+
+11. Which of the following is the central application in the AWS portfolio?
+A) Amazon Elastic Compute Cloud
+B) Amazon Simple Queue Service
+C) Amazon Simple Notification Service
+D) Amazon Simple Storage System
+
+11ans=A
+
+12. Which of the following is an online backup and storage system?
+A) Amazon Elastic Compute Cloud
+B) Amazon Simple Queue Service
+C) Amazon Simple Notification Service
+D) Amazon Simple Storage System
+
+12ans=D
+
+13.Which of the following is a system for creating block level storage devices that can be used for Amazon Machine Instances in EC2?
+A) CloudWatch
+B) Amazon Elastic Block Store
+C) AWS Import/Export
+D) All of the mentioned
+
+13ans=B
+
+14.You want to use an Amazon EC2 instance for a batch processing workload. What would be the best Amazon EC2 instance type to use?
+A)General purpose
+B)Memory optimized
+C)Compute optimized
+D)Storage optimized
+
+14ans=C
+
+15.What are the contract length options for Amazon EC2 Reserved Instances? (Select TWO.)
+A)1 year
+B)2 years
+C)3 years
+D)4 years
+E)5 years
+
+15ans= A and C
+
+16.You want to deploy and manage containerized applications. Which service should you use?
+A)AWS Lambda
+B)Amazon Simple Notification Service (Amazon SNS)
+C)Amazon Simple Queue Service (Amazon SQS)
+D)Amazon Elastic Kubernetes Service (Amazon EKS)
+
+16ans=D
+
+
+
+
+
+
+
+
+
+
+
+
